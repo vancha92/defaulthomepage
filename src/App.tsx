@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div className="btn glass">button</div>
+      <div className="btn glass">button 1.0</div>
     </>
   );
 }
